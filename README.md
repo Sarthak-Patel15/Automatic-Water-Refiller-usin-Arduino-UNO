@@ -6,3 +6,7 @@
 •  Programmed and integrated precise sensor-motor logic in Arduino IDE, enabling reliable and low-cost automation for daily use
 
 •  Calibrated the refill system to ensure 95%+ sensor accuracy and consistent motor control across 10+ refill cycles with no wastage
+
+
+https://drive.google.com/file/d/1wC9aKONm8hLjYuczRSOU_YJWwIIotpDn/view?usp=drive_link 
+# Link to video demonstration of the model
